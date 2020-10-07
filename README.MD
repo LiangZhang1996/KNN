@@ -19,5 +19,5 @@
 
 ## Demonstration:
     (demo.py)
-    This file contains all the demonstartion of Question (2)-(6).
+    This file contains all the demonstartion.
 	
